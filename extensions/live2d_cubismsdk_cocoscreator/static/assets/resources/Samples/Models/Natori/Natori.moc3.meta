@@ -1,11 +1,11 @@
 {
   "ver": "1.0.0",
-  "importer": "*",
+  "importer": "moc3",
   "imported": true,
   "uuid": "9d4a8e2f-9c8b-484a-a255-9b541c70c979",
   "files": [
-    ".json",
-    ".moc3"
+    ".bin",
+    ".json"
   ],
   "subMetas": {},
   "userData": {}
