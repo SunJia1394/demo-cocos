@@ -1,10 +1,9 @@
 {
   "ver": "1.0.0",
-  "importer": "*",
+  "importer": "expressionList.asset",
   "imported": true,
   "uuid": "eb1eeb67-5341-40e6-a8fc-9878a86b7198",
   "files": [
-    ".asset",
     ".json"
   ],
   "subMetas": {},

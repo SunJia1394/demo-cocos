@@ -1,10 +1,9 @@
 {
   "ver": "1.0.0",
-  "importer": "*",
+  "importer": "exp3.asset",
   "imported": true,
   "uuid": "18df9aeb-af38-4d92-97bc-9ec3cc7a4a02",
   "files": [
-    ".asset",
     ".json"
   ],
   "subMetas": {},
