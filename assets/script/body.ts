@@ -1,6 +1,7 @@
-import { _decorator, Component, Input, input, EventTouch, geometry, PhysicsSystem, Camera, Node, MeshCollider, Animation } from 'cc';
+import { _decorator, Component, Input, input, EventTouch, geometry, PhysicsSystem, Camera, Node, MeshCollider, Animation, Label } from 'cc';
 const { ccclass, property } = _decorator;
 import EventBus from './EventBus';
+import { sendData } from './tell';
 
 
 
@@ -8,6 +9,8 @@ import EventBus from './EventBus';
 export class body extends Component {
     @property({ type: Camera })
     mainCamera: Camera | null = null;
+    @property(Label)
+    labelNode: Label | null = null;
     private anim: Animation | null = null;
 
     start() {
@@ -37,6 +40,7 @@ export class body extends Component {
                 if (result.collider.node === this.node) { 
                     console.log("Hit the collider!");
                     if (this.anim) this.anim.play("03");
+                    sendData(this.labelNode.string);
                     EventBus.emit('objectClicked', { detail: { data: "你可以传递任意类型的数据" } });
                     break;
                 }
