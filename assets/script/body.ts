@@ -21,7 +21,6 @@ export class body extends Component {
                 this.anim!.play("00_idle");
             }, this);
 
-
             // 注册鼠标点击事件
             input.on(Input.EventType.TOUCH_END, this.onMouseUp, this);
         }
