@@ -1,0 +1,406 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup",
+			"Name": "EarX1"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup",
+			"Name": "EarX2"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup",
+			"Name": "EarX3"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup",
+			"Name": "EarY1"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup",
+			"Name": "EarX1R"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup",
+			"Name": "EarX2R"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup",
+			"Name": "EarX3R"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup",
+			"Name": "EarY1R"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamAngleXphysics",
+			"GroupId": "",
+			"Name": "Angle X physics"
+		},
+		{
+			"Id": "ParamAngleYphysics",
+			"GroupId": "",
+			"Name": "Angle Y physics"
+		},
+		{
+			"Id": "ParamAngleZphysics",
+			"GroupId": "",
+			"Name": "Angle Z physics"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamIrisScaleL",
+			"GroupId": "",
+			"Name": "IrisScaleL"
+		},
+		{
+			"Id": "ParamLashesWiggleL",
+			"GroupId": "",
+			"Name": "Lashes Wiggle L"
+		},
+		{
+			"Id": "ParamLightJiggleL1",
+			"GroupId": "",
+			"Name": "LightJiggleL1"
+		},
+		{
+			"Id": "ParamLightJiggleL2",
+			"GroupId": "",
+			"Name": "LightJiggleL2"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamIrisScaleR",
+			"GroupId": "",
+			"Name": "IrisScaleR"
+		},
+		{
+			"Id": "ParamLashesWiggleR",
+			"GroupId": "",
+			"Name": "Lashes Wiggle R"
+		},
+		{
+			"Id": "ParamLightJiggleR1",
+			"GroupId": "",
+			"Name": "LightJiggleR1"
+		},
+		{
+			"Id": "ParamLightJiggleR2",
+			"GroupId": "",
+			"Name": "LightJiggleR2"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamBrowPhysR",
+			"GroupId": "",
+			"Name": "BrowPhysR"
+		},
+		{
+			"Id": "ParamBrowPhysL",
+			"GroupId": "",
+			"Name": "BrowPhysL"
+		},
+		{
+			"Id": "ParamWhiskersPhysR",
+			"GroupId": "",
+			"Name": "WhiskersPhysR"
+		},
+		{
+			"Id": "ParamWhiskersPhysL",
+			"GroupId": "",
+			"Name": "WhiskersPhysL"
+		},
+		{
+			"Id": "ParamMouthX",
+			"GroupId": "",
+			"Name": "Mouth X"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "Mouth Open Y"
+		},
+		{
+			"Id": "ParamBodyXAug",
+			"GroupId": "",
+			"Name": "Body X Aug"
+		},
+		{
+			"Id": "ParamBodyYAug",
+			"GroupId": "",
+			"Name": "Body Y Aug"
+		},
+		{
+			"Id": "ParamPluY",
+			"GroupId": "",
+			"Name": "Plu Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "Body Angle Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamLGoldColorEye",
+			"GroupId": "",
+			"Name": "L Gold Color Eye"
+		},
+		{
+			"Id": "ParamLBlueColorEye",
+			"GroupId": "",
+			"Name": "L Blue Color Eye"
+		},
+		{
+			"Id": "ParamRGoldColorEye",
+			"GroupId": "",
+			"Name": "R Gold Color Eye"
+		},
+		{
+			"Id": "ParamRBlueColorEye",
+			"GroupId": "",
+			"Name": "R Blue Color Eye"
+		},
+		{
+			"Id": "ParamSparkly",
+			"GroupId": "",
+			"Name": "Sparkly"
+		},
+		{
+			"Id": "ParamScaredFace",
+			"GroupId": "",
+			"Name": "Scared Face"
+		},
+		{
+			"Id": "ParamScaredShadow",
+			"GroupId": "",
+			"Name": "Scared Shadow"
+		},
+		{
+			"Id": "ParamCuteEye",
+			"GroupId": "",
+			"Name": "Cute Eye"
+		},
+		{
+			"Id": "ParamSadEye",
+			"GroupId": "",
+			"Name": "Sad Eye"
+		},
+		{
+			"Id": "ParamTears",
+			"GroupId": "",
+			"Name": "Tears"
+		},
+		{
+			"Id": "ParamSparklyEye",
+			"GroupId": "",
+			"Name": "Sparkly Eye"
+		},
+		{
+			"Id": "ParamSparklyAround",
+			"GroupId": "",
+			"Name": "Sparkly Around"
+		},
+		{
+			"Id": "ParamBlush",
+			"GroupId": "",
+			"Name": "Blush"
+		},
+		{
+			"Id": "Param_Angle_Rotation9",
+			"GroupId": "ParamGroup2",
+			"Name": "[0]Tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation10",
+			"GroupId": "ParamGroup2",
+			"Name": "[1]Tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation11",
+			"GroupId": "ParamGroup2",
+			"Name": "[2]Tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation12",
+			"GroupId": "ParamGroup2",
+			"Name": "[3]Tail"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Ear"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Tail"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part3",
+			"Name": "Expressions 2"
+		},
+		{
+			"Id": "Sparkles",
+			"Name": "Sparkles"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Expressions 3"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Expressions 1"
+		},
+		{
+			"Id": "Tail2",
+			"Name": "Tail"
+		},
+		{
+			"Id": "Part13",
+			"Name": "L Ear"
+		},
+		{
+			"Id": "Part11",
+			"Name": "R Ear"
+		},
+		{
+			"Id": "Face",
+			"Name": "Face"
+		},
+		{
+			"Id": "Head",
+			"Name": "Head"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Chest Fur"
+		},
+		{
+			"Id": "Part6",
+			"Name": "R Arm"
+		},
+		{
+			"Id": "Part7",
+			"Name": "L Arm"
+		},
+		{
+			"Id": "Body",
+			"Name": "Body"
+		},
+		{
+			"Id": "Part15",
+			"Name": "Tail Back"
+		},
+		{
+			"Id": "ArtMesh22_Skinning",
+			"Name": "Tail Line(蒙皮)"
+		},
+		{
+			"Id": "ArtMesh23_Skinning",
+			"Name": "Tail Mask(蒙皮)"
+		},
+		{
+			"Id": "ArtMesh67_Skinning",
+			"Name": "Tail Fur Pattern 1(蒙皮)"
+		},
+		{
+			"Id": "ArtMesh68_Skinning",
+			"Name": "Tail Fur Pattern 2(蒙皮)"
+		},
+		{
+			"Id": "ArtMesh1_Skinning",
+			"Name": "Tail Fur Pattern 2_1(蒙皮)"
+		},
+		{
+			"Id": "Tail_Skinning",
+			"Name": "Tail(蒙皮)"
+		},
+		{
+			"Id": "Mouth",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "Part8",
+			"Name": "L Eye"
+		},
+		{
+			"Id": "Part",
+			"Name": "R Eye"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamBrowRY",
+			"ParamBrowRForm"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}

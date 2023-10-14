@@ -1,0 +1,15 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ParamScaredFace",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamScaredShadow",
+            "Value": 1.0,
+            "Blend": "Add"
+        }
+    ]
+}

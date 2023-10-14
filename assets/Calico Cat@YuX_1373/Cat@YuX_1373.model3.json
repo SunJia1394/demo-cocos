@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Cat@YuX_1373.moc3",
+		"Textures": [
+			"Cat@YuX_1373.4096/texture_00.png"
+		],
+		"Physics": "Cat@YuX_1373.physics3.json",
+		"DisplayInfo": "Cat@YuX_1373.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
