@@ -15,7 +15,7 @@ export class tell extends Component {
 
   start() {
     this.node.active = false
-    // this.listen();
+    this.listen();
   }
 
   // https://aisoul.juramaia.com/listenMessages 猫咪对主人说的话

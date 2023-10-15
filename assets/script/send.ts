@@ -29,9 +29,6 @@ import { sendData } from "./tell";
   
       sendData( `赠送${this.labelNode?.string}`)
   
-      EventBus.emit("foodClicked", {
-        detail: { data: "你可以传递任意类型的数据" },
-      });
     }
   
     onDestroy() {

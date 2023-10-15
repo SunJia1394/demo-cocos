@@ -17,7 +17,8 @@ export class ToggleNode extends Component {
     }
 
     handleToggleNode(){
-        console.log(this.node2.active)
+        console.log(this.node);
+        console.log(this.node2)
         if(this.node2.active){
             this.node2.active=false
         }else{
